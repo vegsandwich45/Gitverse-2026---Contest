@@ -1,0 +1,9 @@
+-- Write the Git commands alone below the problem
+-- Commit this file in branch questions/no1
+
+You have completed your work on a feature branch and want to contribute it to the main project hosted on GitHub.
+
+Explain the steps and Git commands required to push your branch to the remote repository and create a Pull Request. Also mention what happens if your branch is not up to date with the remote main branch.
+
+Your solution:
+

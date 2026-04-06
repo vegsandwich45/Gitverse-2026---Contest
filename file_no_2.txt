@@ -1,0 +1,9 @@
+-- Write the Git commands alone below the problem
+-- Commit this file in branch questions/no2
+
+You are working on a feature branch along with your teammates. While trying to merge your branch into main, Git shows a merge conflict.
+
+Explain the steps and Git commands required to identify the conflict, resolve it, and complete the merge successfully.
+
+Your solution:
+
