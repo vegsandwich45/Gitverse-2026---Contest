@@ -49,7 +49,8 @@ Use the Git knowledge from the workshop to solve practical problems involving br
 ## 🔄 Final Submission
 
 1. Push all your branches to your forked repository
-2. Create a **Pull Request (PR)** to the original repository
+2. Merge all the branches to main
+3. Create a **Pull Request (PR)** to the original repository
 
 ---
 
