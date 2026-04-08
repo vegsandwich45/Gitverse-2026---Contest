@@ -6,4 +6,12 @@ You have completed your work on a feature branch and want to contribute it to th
 Explain the steps and Git commands required to push your branch to the remote repository and create a Pull Request. Also mention what happens if your branch is not up to date with the remote main branch.
 
 Your solution:
-
+git checkout -b questions/no1
+git add file_no_1.txt
+git commit -m "Solved question 1"
+git push origin questions/no1
+git checkout main
+git pull origin main
+git checkout questions/no1
+git merge main
+git push origin questions/no1
